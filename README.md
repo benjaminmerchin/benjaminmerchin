@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=bmerchin)]
+(https://github.com/mohouyizme/1337-readme)
 
-(Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-)
