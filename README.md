@@ -6,13 +6,14 @@ Some technologies I used in projects:
 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Wordpress" src="https://img.shields.io/badge/wordpress%20-%23326ce5.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/> 
 
+<!--
 ## 42 Statistics
 <p>
 	<img align="center" src="https://badge42.herokuapp.com/api/stats/bmerchin"/>
 </p>
 	
 
-<!--<p align="center">
+<p align="center">
 	<img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=bmerchin" link="https://linkedin.com/in/benjaminmerchin"/>
 	<img align="center" src="https://badge42.herokuapp.com/api/stats/bmerchin"/>
 </p>-->
