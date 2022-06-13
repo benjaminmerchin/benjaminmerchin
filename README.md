@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Benjamin Merchin
 
-I'm currently studying at 42 Paris, and working on a few side projects (webmaster freelance, writing articles to help improving 42, participating in coding challenges...)
+I'm a Full-Stack software engineer, currently working on a few side projects (personnal projects, webmaster freelance, writing articles to help improving 42, participating in coding challenges...)
 
 Some technologies I used in projects:
 
