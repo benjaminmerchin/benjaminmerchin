@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Benjamin Merchin
 
-I'm a Full-Stack software engineer, currently working at Galadrim.
+I'm a Full-Stack software engineer, working at [Galadrim](https://www.galadrim.fr). I help startups with their IT needs.
 
 Some technologies I used in projects:
 
