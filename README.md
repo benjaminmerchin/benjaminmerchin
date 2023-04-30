@@ -39,3 +39,6 @@ Some technologies I used in projects:
 If you have any questions or feedback
 
 <a href= "https://www.linkedin.com/in/benjaminmerchin/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:bmerchin@student.42.fr"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+
+## Website
+<a href= "https://merchin.fr">merchin.fr</a>
